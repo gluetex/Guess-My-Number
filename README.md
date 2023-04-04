@@ -22,4 +22,4 @@ Welcome to Guess My Number! This is a simple command-line game where the compute
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
