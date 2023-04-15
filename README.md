@@ -19,7 +19,3 @@ Welcome to Guess My Number! This is a simple command-line game where the compute
 - The game will generate a new random number each time it is played.
 - The game will keep track of your score (number of guesses it took to get the correct answer).
 - You can choose to play again or exit the game at the end.
-
-# License
-
-This project is licensed under the MIT License
